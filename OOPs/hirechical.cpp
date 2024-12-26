@@ -29,7 +29,7 @@ int main()
 	C c;
 	c.show();
 	c.out();
-	b b;
-	bshow();
+	B b;
+	b.show();
 	b.disp();
 }
